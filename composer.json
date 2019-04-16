@@ -1,0 +1,6 @@
+{
+  "require": {
+    "ramsey/uuid": "3.8.0",
+    "swiftmailer/swiftmailer": "v6.2.0"
+  }
+}

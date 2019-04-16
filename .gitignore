@@ -1,0 +1,10 @@
+# Composer
+/vendor
+/composer.phar
+
+# IDE Stuff
+/.vscode
+/.idea
+
+# Config files
+/config.php
